@@ -1,3 +1,1 @@
-# todo
-
-basic todo app with notes feature
+To-Do app in Django with all basic functionalities.
